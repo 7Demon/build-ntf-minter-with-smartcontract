@@ -1,0 +1,1 @@
+smartcontract for minter nft
